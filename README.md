@@ -24,7 +24,7 @@ En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear conten
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-232F3E?style=for-the-badge&logo=css3-aws&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-232F3E?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-4285F4?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
