@@ -46,7 +46,7 @@ And others...
 </td>
 <td>
 <a href="">
-<img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png">
+<img src="">
 </a>
 </td>
 </tr>
