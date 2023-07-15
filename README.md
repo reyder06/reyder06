@@ -69,4 +69,4 @@ And others...
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reyder_Rodriguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/reyder-rodríguez-nieto-63a0081a4)
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:reyderrodriguez@gmail.com)
+[![Email](https://img.shields.io/badge/reyderrodriguezn@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:reyderrodriguezn@gmail.com)
