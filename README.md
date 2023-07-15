@@ -41,7 +41,7 @@ And others...
 </td>
 <td>
 <a href="">
-<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
 </a>
 </td>
 <td>
