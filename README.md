@@ -63,24 +63,24 @@ And others...
 </td>
 <td>
 <a href="">
-<img src="">
+<img src="https://omegaup.com/media/dist/badges/problemOfTheWeekWithOmegaUp.svg">
 </a>
 </td>
 </tr>
 <tr>
 <td>
 <a href="">
-<img src="">
+<img src="https://omegaup.com/media/dist/badges/problemOfTheWeekWithOmegaUp.svg">
 </a>
 </td>
 <td>
 <a href="">
-<img src="">
+<img src="https://omegaup.com/media/dist/badges/problemOfTheWeekWithOmegaUp.svg">
 </a>
 </td>
 <td>
 <a href="">
-<img src="">
+<img src="https://omegaup.com/media/dist/badges/problemOfTheWeekWithOmegaUp.svg">
 </a>
 </td>
 </tr>
