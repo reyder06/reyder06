@@ -31,7 +31,7 @@ En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear conten
 [![Wordpress](https://img.shields.io/badge/Wordpress-339933?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 [![Word](https://img.shields.io/badge/Word-47A248?style=for-the-badge&logo=microsoftword&logoColor=white&labelColor=101010)]()
 [![Word](https://img.shields.io/badge/Word-47A248?style=for-the-badge&logo=microsoftword&logoColor=white&labelColor=101010)]()
-[![Microsoft Office](https://img.shields.io/badge/Microsoft Office-4479A1?style=for-the-badge&logo=microsoftoffice&logoColor=white&labelColor=101010)]()
+[![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-4479A1?style=for-the-badge&logo=microsoftoffice&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
 
