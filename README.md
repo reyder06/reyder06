@@ -16,6 +16,7 @@ En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear conten
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Windows](https://img.shields.io/badge/Windows-FA7343?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/Linux-1575F9?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+[![PROXMOX](https://img.shields.io/badge/PROXMOX-1575F9?style=for-the-badge&logo=proxmox&logoColor=white&labelColor=101010)]()
 </br>
 [![C](https://img.shields.io/badge/C-3DDC84?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++-0095D5?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
