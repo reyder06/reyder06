@@ -40,20 +40,20 @@ And others...
 </a>
 </td>
 <td>
-<a href="https://youtu.be/-pWSQYpkkjk">
+<a href="">
 <img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+<a href="">
+<img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
+<a href="">
+<img src="https://www.pngegg.com/en/png-nwuho">
 </a>
 </td>
 <td>
