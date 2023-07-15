@@ -46,7 +46,7 @@ And others...
 </td>
 <td>
 <a href="">
-<img src="">
+<img src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png">
 </a>
 </td>
 </tr>
