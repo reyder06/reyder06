@@ -58,7 +58,7 @@ And others...
 </td>
 <td>
 <a href="">
-<img src="https://www.vhv.rs/dpng/d/456-4562887_html-5-transparent-png-clipart-free-download-html.png">
+<img src="https://w7.pngwing.com/pngs/1010/799/png-transparent-web-development-wordpress-web-design-software-development-content-management-system-wordpress-search-engine-optimization-web-design-text.png">
 </a>
 </td>
 <td>
