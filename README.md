@@ -46,7 +46,7 @@ And others...
 </td>
 <td>
 <a href="">
-<img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png">
+<img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png">
 </a>
 </td>
 </tr>
