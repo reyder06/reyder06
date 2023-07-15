@@ -53,7 +53,7 @@ And others...
 <tr>
 <td>
 <a href="">
-<img src="https://www.citypng.com/public/uploads/preview/hd-java-coffee-cup-logo-transparent-png-11662223706af5je2buy7.png">
+<img src="https://cdn.imgbin.com/9/18/23/imgbin-java-programmer-computer-programming-logo-others-UqxEsKnjGLrqf4iDsUtLuP7bA.jpg">
 </a>
 </td>
 <td>
