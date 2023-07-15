@@ -41,24 +41,7 @@ And others...
 </td>
 <td>
 <a href="">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
-</a>
-</td>
-<td>
-<a href="">
-<img src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="">
-<img src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png">
-</a>
-</td>
-<td>
-<a href="">
-<img src="https://pngset.com/images/html-css-js-html-first-aid-logo-symbol-trademark-transparent-png-642655.png">
+<img src="https://omegaup.com/media/dist/badges/problemOfTheWeekWithOmegaUp.svg">
 </a>
 </td>
 <td>
