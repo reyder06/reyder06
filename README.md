@@ -53,7 +53,7 @@ And others...
 <tr>
 <td>
 <a href="">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png">
+<img src="">
 </a>
 </td>
 <td>
