@@ -33,7 +33,7 @@ And others...
 ## Work done:
 
 <table style="width:100%">
-<tr style="background-size: 20px 40px;">
+<tr style="background-size: 20px 40px">
 <td style="background-size: 20px 40px">
 <a href="">
 <img src="https://omegaup.com/media/dist/badges/problemOfTheWeekWithOmegaUp.svg" style="background-size: 20px 40px">
