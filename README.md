@@ -3,15 +3,6 @@
 
 
 
-Bachelor of Computer Science with more than seven years of work experience.
-
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
-
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
-
-
-
 ## Technologies I have worked with:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Windows](https://img.shields.io/badge/Windows-FA7343?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
@@ -39,13 +30,13 @@ And others...
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reyder_Rodriguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/reyder-rodríguez-nieto-63a0081a4)
 
-## Algunos vídeos en YouTube:
+## Work done:
 
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+<a href="">
+<img src="https://omegaup.com/media/dist/badges/problemOfTheWeekWithOmegaUp.svg">
 </a>
 </td>
 <td>
