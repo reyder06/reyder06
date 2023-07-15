@@ -35,8 +35,6 @@ En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear conten
 And others...
 
 ## Encuéntrame en:
-
-[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
 ## Mis guías de estudio iOS y Android:
