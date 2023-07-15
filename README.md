@@ -53,7 +53,7 @@ And others...
 <tr>
 <td>
 <a href="">
-<img src="https://cdn.imgbin.com/9/18/23/imgbin-java-programmer-computer-programming-logo-others-UqxEsKnjGLrqf4iDsUtLuP7bA.png">
+<img src="https://w7.pngwing.com/pngs/177/242/png-transparent-plain-old-java-object-programming-language-computer-programming-object-oriented-programming-others-text-logo-computer-programming.png">
 </a>
 </td>
 <td>
