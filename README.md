@@ -57,30 +57,30 @@ And others...
 </a>
 </td>
 <td>
-<a href="https://youtu.be/GoAxsdg0Xbs">
-<img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
+<a href="">
+<img src="">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/pFyAu4R684s">
-<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
+<a href="">
+<img src="">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://youtu.be/BQaxPwZWboA">
-<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+<a href="">
+<img src="">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/Wfh0FYR0z6I">
-<img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
+<a href="">
+<img src="">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/ebQphhLpJG0">
-<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+<a href="">
+<img src="">
 </a>
 </td>
 </tr>
