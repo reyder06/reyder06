@@ -34,7 +34,7 @@ And others...
 
 <table style="width:100%">
 <tr>
-<td style = "width:33% height:33%">
+<td style = "width:20% height:20%">
 <a href="">
 <img src="https://omegaup.com/media/dist/badges/problemOfTheWeekWithOmegaUp.svg" >
 </a>
