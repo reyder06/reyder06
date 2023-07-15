@@ -53,7 +53,7 @@ And others...
 <tr>
 <td>
 <a href="">
-<img src="https://banner2.cleanpng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg">
+<img src="https://www.citypng.com/public/uploads/preview/hd-java-coffee-cup-logo-transparent-png-11662223706af5je2buy7.png">
 </a>
 </td>
 <td>
