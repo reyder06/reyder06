@@ -34,9 +34,9 @@ And others...
 
 <table style="width:100%">
 <tr>
-<td>
+<td style="background-size: 20px 40px">
 <a href="">
-<img src="https://omegaup.com/media/dist/badges/problemOfTheWeekWithOmegaUp.svg" style="background-size: 20px 40px;">
+<img src="https://omegaup.com/media/dist/badges/problemOfTheWeekWithOmegaUp.svg" >
 </a>
 </td>
 <td>
