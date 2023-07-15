@@ -36,7 +36,7 @@ And others...
 <tr>
 <td>
 <a href="">
-<img src="https://omegaup.com/media/dist/badges/problemOfTheWeekWithOmegaUp.svg">
+<img src="https://omegaup.com/media/dist/badges/problemOfTheWeekWithOmegaUp.svg" object-fit: cover width:100% height:100%>
 </a>
 </td>
 <td>
